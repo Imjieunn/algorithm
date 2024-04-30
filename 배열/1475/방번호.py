@@ -22,5 +22,3 @@ for k, v in num_dict.items():
         if v > result:
             result = v
 print(result)
-
-# 반례) 66699 : 결과값 3나와야 하는데 2로 나옴
